@@ -1,0 +1,16 @@
+com\collaboration\model\User.class
+com\collaboration\service\JobsServiceImpl.class
+com\collaboration\config\DBConfig.class
+com\collaboration\dao\JobsDao.class
+com\collaboration\model\BlogComment.class
+com\collaboration\service\Userservice.class
+com\collaboration\config\WebConfig.class
+com\collaboration\model\BlogPost.class
+com\collaboration\controller\UserController.class
+com\collaboration\dao\Userdao.class
+com\collaboration\model\JobDetails.class
+com\collaboration\config\WebAppInitializer.class
+com\collaboration\service\JobsService.class
+com\collaboration\daoimpl\JobsDaoImpl.class
+com\collaboration\daoimpl\Userdaoimpl.class
+com\collaboration\service\Userserviceimpl.class
